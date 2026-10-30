@@ -25,7 +25,7 @@ def read_log(path):
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument("--runs", default="runs")
+    p.add_argument("--runs", default="results/cifar10")
     p.add_argument("--out", default="docs/cifar10_plain_vs_resnet.png")
     p.add_argument("--seed", type=int, default=0)
     args = p.parse_args()

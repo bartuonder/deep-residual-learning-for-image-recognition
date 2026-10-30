@@ -1,0 +1,22 @@
+{
+  "depth": 20,
+  "plain": false,
+  "shortcut": "A",
+  "iters": 64000,
+  "batch_size": 128,
+  "lr": 0.1,
+  "milestones": [
+    32000,
+    48000
+  ],
+  "momentum": 0.9,
+  "weight_decay": 0.0001,
+  "warmup_lr": null,
+  "val_split": false,
+  "eval_every": 1000,
+  "seed": 0,
+  "data": "data",
+  "out": "runs",
+  "name": null,
+  "resume": true
+}

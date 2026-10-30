@@ -1,0 +1,8 @@
+{
+  "name": "cifar10_plain44_s0",
+  "depth": 44,
+  "plain": true,
+  "params": 658586,
+  "final_eval_error": 11.62,
+  "eval_set": "test(10k)"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "cifar10_resnet44_s0",
+  "depth": 44,
+  "plain": false,
+  "params": 658586,
+  "final_eval_error": 7.41,
+  "eval_set": "test(10k)"
+}
