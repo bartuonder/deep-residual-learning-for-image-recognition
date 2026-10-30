@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/
+runs/
+checkpoints/
+*.pt
+*.pth
